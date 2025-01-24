@@ -1,0 +1,71 @@
+/*Jystify content alinha o conteúdo horizontalmente
+  align-itens alinha o conteúdo verticalmente
+*/
+/*
+Os itens estão um abaixo do outro pois eles estão dentro de uma tag a login-area e dentro dessa tag eles estão dentro de outras sections
+*/
+main {
+  display: flex;
+  outline: solid 1px black;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+}
+.login-area {
+  padding: 20px;
+  display: block;
+  background-color: rgba(2251, 251, 251, 0.7);
+  border-radius: 20px;
+  box-shadow: 10px 10px 15px #26262625;
+  
+}
+.titles {
+  padding: 10px;
+    h1{
+        margin-bottom: 10px;
+    }
+
+  p {
+    margin-left: 15px;
+    color: gray;
+    font-size: 1em;
+  }
+}
+.formstyle {
+  padding: 30px;
+}
+input {
+  border-radius: 10px;
+  padding: 10px;
+  border: none;
+  box-shadow: 5px 5px 10px #45454525;
+}
+.email {
+  margin-bottom: 30px;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+/* O before adiciona o estilo antes do conteúdo da tag carregar, assim evitando que o conteúdo apareça sem estilo em momento nenhum ao atualizar a página.
+O after faz o contrário
+*/
+.background::before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  right: -20px;
+  bottom: -20px;
+  background-image: url(/src/assets/images/Photo\ by\ Belle\ Co\ 1920.jpg);
+  background-size: cover;
+  background-position: center;
+  filter: blur(10px);
+}

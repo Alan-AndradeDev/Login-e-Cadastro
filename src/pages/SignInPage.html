@@ -5,25 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/src/assets/css/reset.css" />
     <link rel="stylesheet" href="/src/assets/css/styles.css" />
+    <link rel="stylesheet" href="/src/assets/css/button.css" />
 
     <title>Em desenvolvimento...</title>
   </head>
   <body>
     <main>
-      <section class="titles">
-        <h1>ENTRAR</h1>
-        <p>Como você está hoje?</p>
+      <section class="login-area">
+        <section class="titles">
+          <h1>ENTRAR</h1>
+          <p>Como você está hoje?</p>
+        </section>
+        <section class="formstyle">
+          <form action="" method="post" autocomplete="off">
+            <div class="email">
+              <input type="email" name="email" id="email" placeholder="Email" />
+            </div>
+            <div class="password">
+              <input
+                type="password"
+                name="password"
+                id="password"
+                placeholder="Password"
+              />
+            </div>
+            <a href="">Esqueceu a senha?</a>
+            <div class="button">
+              <button type="submit" aria-label="Botão para fazer login">
+                ENTRAR
+              </button>
+            </div>
+            <p>Não tem uma <a href="">conta</a>?</p>
+          </form>
+        </section>
+        <section class="background"></section>
       </section>
-      <section class="formstyle">
-        <form action="" method="post" autocomplete="off">
-          <input type="email" name="email" id="email" placeholder="Email" />
-          <input type="password" name="password" id="password" />
-          <a href="">Esqueceu a senha?</a>
-          <button type="submit" aria-label="Botão para fazer login">ENTRAR</button>
-          <p>Não tem uma <a href="">conta</a>?</p>
-        </form>
-      </section>
-      <section class="background"></section>
     </main>
   </body>
 </html>
