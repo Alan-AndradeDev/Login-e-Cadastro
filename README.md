@@ -17,4 +17,4 @@ Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usa
 ![2025-01-26-15-54-02](https://github.com/user-attachments/assets/a67705ee-54b9-41ed-bf43-15f6218b67d3)
 
 
-Se for usar esse projeto para algo, leita a licença Mit!
+Se for usar esse projeto, leia a licença Mit!
