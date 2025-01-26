@@ -56,25 +56,6 @@ input {
   text-decoration: underline;
 }
 
-.button{
-  display: flex;
-  justify-content: center;
-  margin-top: 30px;
-  
-  button{
-    background-color: black;
-    color: white;
-    padding: 8px 20px 8px 20px;
-    border-radius: 10px;
-    border: none;
-  }
-
-}
-button:hover{
-  background-color: rgb(117, 117, 117);
-  cursor: pointer;
-}
-
 .create-account{
   display: flex;
   justify-content: center;
