@@ -40,6 +40,10 @@ input {
   padding: 10px;
   border: none;
   box-shadow: 5px 5px 10px #45454525;
+  
+}
+input:focus{
+  outline: solid 1px gray;
 }
 .email {
   margin-bottom: 30px;
