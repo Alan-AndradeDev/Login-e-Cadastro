@@ -1,7 +1,10 @@
 # Página de Login
 Projeto em desenvolvimento para treino de HTML e CSS.
 
-A ideia desse projeto é fazer uma página para o Login e uma para cadastro. Pretendo adicionar no futuro JS e Banco de dados ao projeto.  
+- [x] Página de Login
+- [ ] Página de Cadastro
+- [ ] Implementar JS
+- [ ] Implementar Banco de dados
 
 Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usando HTML e CSS.
 
