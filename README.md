@@ -9,8 +9,7 @@ Projeto em desenvolvimento para treino de HTML e CSS.
 Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usando HTML e CSS.
 
 
-Se for usar esse projeto, leia a licença MIT! <a href="https://github.com/Alan-AndradeDev/Login-e-Cadastro?tab=MIT-1-ov-file" >Link aqui
-</a>
+Se for usar esse projeto, leia a licença MIT! [Link aqui](https://github.com/Alan-AndradeDev/Login-e-Cadastro?tab=MIT-1-ov-file)
 
 # Idealização no Figma:
 ![image](https://github.com/user-attachments/assets/a17cdce2-d318-4514-a3a2-80d8c6d6a33a)
