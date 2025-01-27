@@ -21,4 +21,4 @@ Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usa
 
 
 
-Se for usar esse projeto, leia a licença Mit!
+Se for usar esse projeto, leia a licença MIT! Link aqui(https://github.com/Alan-AndradeDev/Login-e-Cadastro?tab=MIT-1-ov-file)
