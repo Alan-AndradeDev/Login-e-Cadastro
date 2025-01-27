@@ -17,8 +17,8 @@ Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usa
 ![2025-01-26-15-54-02](https://github.com/user-attachments/assets/a67705ee-54b9-41ed-bf43-15f6218b67d3)
 
 # Visão em Iphone 14 Plus e Galaxy S21 Ultra
-![iPhone-14-Plus-127 0 0 1](https://github.com/user-attachments/assets/786c9520-24d9-4c3b-91fc-eac0aa36d44f)
+![iPhone-14-Plus-127 0 0 1](https://github.com/user-attachments/assets/786c9520-24d9-4c3b-91fc-eac0aa36d44f) ![Galaxy-S21-Ultra-127 0 0 1](https://github.com/user-attachments/assets/48974139-1349-40c9-b06b-753486911580)
 
-![Galaxy-S21-Ultra-127 0 0 1](https://github.com/user-attachments/assets/48974139-1349-40c9-b06b-753486911580)
+
 
 Se for usar esse projeto, leia a licença Mit!
