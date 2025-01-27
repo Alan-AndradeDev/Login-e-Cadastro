@@ -5,6 +5,10 @@ A ideia desse projeto é fazer uma página para o Login e uma para cadastro. Pre
 
 Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usando HTML e CSS.
 
+
+Se for usar esse projeto, leia a licença MIT! <a href="https://github.com/Alan-AndradeDev/Login-e-Cadastro?tab=MIT-1-ov-file" >Link aqui
+</a>
+
 # Idealização no Figma:
 ![image](https://github.com/user-attachments/assets/a17cdce2-d318-4514-a3a2-80d8c6d6a33a)
 
@@ -18,8 +22,3 @@ Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usa
 
 # Visão em Iphone 14 Plus e Galaxy S21 Ultra
 ![iPhone-14-Plus-127 0 0 1](https://github.com/user-attachments/assets/786c9520-24d9-4c3b-91fc-eac0aa36d44f) ![Galaxy-S21-Ultra-127 0 0 1](https://github.com/user-attachments/assets/48974139-1349-40c9-b06b-753486911580)
-
-
-
-Se for usar esse projeto, leia a licença MIT! <a href="https://github.com/Alan-AndradeDev/Login-e-Cadastro?tab=MIT-1-ov-file" >Link aqui
-</a>
