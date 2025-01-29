@@ -8,6 +8,9 @@ Projeto em desenvolvimento para treino de HTML e CSS.
 
 Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usando HTML e CSS.
 
+Background image: Belle Co
+Icons email and password: Wiwin Winaldi 
+
 
 Se for usar esse projeto, leia a licença MIT! [Link aqui](https://github.com/Alan-AndradeDev/Login-e-Cadastro?tab=MIT-1-ov-file)
 
