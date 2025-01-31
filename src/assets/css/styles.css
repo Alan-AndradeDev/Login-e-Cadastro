@@ -46,12 +46,12 @@ input:focus{
 }
 
 
-.email {
+.email, .nome {
   position: relative;
   margin-bottom: 30px;
 }
 
-.email img, .password img{
+.email img, .password img, .nome img{
   position: absolute;
   left: 5px;
   top: 50%;
