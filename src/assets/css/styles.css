@@ -6,7 +6,6 @@ Os itens estão um abaixo do outro pois eles estão dentro de uma tag a login-ar
 */
 main {
   display: flex;
-  outline: solid 1px black;
   justify-content: center;
   align-items: center;
   width: 100%;
