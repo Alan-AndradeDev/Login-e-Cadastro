@@ -38,12 +38,17 @@ input {
   padding: 10px 10px 10px 35px;
   border: none;
   box-shadow: 5px 5px 10px #45454525;
-  
-}
-input:focus{
-  outline: solid 1px gray;
 }
 
+.email, .password, .nome{
+  transition-property: transform;
+  transition-duration: .3s;
+}
+.email:hover, .password:hover, .nome:hover{
+  transform: scale(1.1);
+  border-radius: 10px;
+  outline: solid 1px gray;
+}
 
 .email, .nome {
   position: relative;
