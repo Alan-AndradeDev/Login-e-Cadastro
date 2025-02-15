@@ -8,7 +8,8 @@ Projeto em desenvolvimento para treino de HTML e CSS.
 
 Este projeto foi primeiro idealizado no Figma e depois reproduzido no VsCode usando meus conhecimentos em HTML e CSS.
 
-Background image: Belle Co  
+Background Image: Evgeny Tchebotarev  
+Imagens Extras: Belle Co  
 Icons Nome, Email e Senha: Wiwin Winaldi 
 
 
